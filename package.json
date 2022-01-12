@@ -1,0 +1,19 @@
+{
+  "name": "hof-es6",
+  "version": "1.0.0",
+  "description": "Learn ES6 Syntax &amp; Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanychi/HOF-ES6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanychi/HOF-ES6/issues"
+  },
+  "homepage": "https://github.com/chanychi/HOF-ES6#readme"
+}
