@@ -11,6 +11,12 @@ function doSomething (input) {
   //do code
 };
 
-//
 
 console.log(doSomething(cart))
+
+function doSomethingElse (input) {
+  //create a function that return the total price of all the items in the cart (use reduce)
+  
+}
+
+console.log(doSomethingElse(cart))
