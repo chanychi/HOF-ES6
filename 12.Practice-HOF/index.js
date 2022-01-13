@@ -5,10 +5,10 @@ let cart = [
   {"name":"Mouse", "type":"prime", "category":"tech", "price": 25.50},
   {"name":"dress", "type":"regular", "category":"clothes", "price": 49.90},
 ]
-//Direction - build a function that return only the food with the type prime
+/
 
 function doSomething (input) {
-  //do code
+  //build a function that return only the food with the type prime
 };
 
 
@@ -16,7 +16,6 @@ console.log(doSomething(cart))
 
 function doSomethingElse (input) {
   //create a function that return the total price of all the items in the cart (use reduce)
-  
 }
 
 console.log(doSomethingElse(cart))
